@@ -1,5 +1,5 @@
 certifi==2020.4.5.1
-babel==2.7.0
+babel==2.9.1
 flask-babel==1.0.0
 flask==1.1.2
 idna==2.9
